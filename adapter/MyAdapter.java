@@ -86,6 +86,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
             }
         });
 //0987654321`
+        //wangwenting
     }
     public interface JIeKoe{
         void onClick(int position,int count);
