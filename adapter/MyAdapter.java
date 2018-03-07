@@ -85,7 +85,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
                 jiekou.onClick(position, count);
             }
         });
-
+//0987654321`
     }
     public interface JIeKoe{
         void onClick(int position,int count);
